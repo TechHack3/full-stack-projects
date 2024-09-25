@@ -9,9 +9,7 @@ Welcome to the **Full Stack Projects** repository! This is a collaborative space
 - [Project Overview](#project-overview)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [Maintainers](#maintainers)
 - [License](#license)
-- [Contact](#contact)
 
 ## Project Overview
 
