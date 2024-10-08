@@ -15,8 +15,8 @@ Welcome to the **Full Stack Projects** repository! This is a collaborative space
 
 This repository aims to gather a diverse range of full stack projects, built using popular technologies, including:
 
-- **Frontend**: React, Angular, Vue.js, etc.
-- **Backend**: Node.js, Express, Django, etc.
+- **Frontend**: Html, css, javascript, React, Angular, Vue.js, etc.
+- **Backend**: Php, Go, Node.js, Express, Django, etc.
 - **Database**: MongoDB, PostgreSQL, MySQL, etc.
 
 Each project should be easy to deploy and customize, serving as a valuable resource for developers.
